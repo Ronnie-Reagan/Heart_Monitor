@@ -7,3 +7,5 @@ Ensure your webcam is connected before launching the app, it automatically runs 
 Stay as still as possible
 
 be relaxed, do not smile or talk.
+
+To install requirements run `pip install -r requirements.txt`
