@@ -9,3 +9,5 @@ Stay as still as possible
 be relaxed, do not smile or talk.
 
 To install requirements run `pip install -r requirements.txt`
+
+[Camo Studio](https://reincubate.com/camo/)
